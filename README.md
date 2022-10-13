@@ -17,7 +17,7 @@ The memex was a device imagine by Vannevar Bush that was supposed to keep many d
 
 ### 3) Custom embeddings with Gensim 
 
-<img src="./images/Ursula.jpg" width="300"/>
+<img src="./images/Ursula.jpg" width="320"/>
 
 Training embeddings for a corpus of Ursula K. Le Guin's poems. 
 
@@ -25,7 +25,7 @@ By training embeddings and depicting them in a 2d space it is possible to get in
 
 ### 4) Next word prediction
 
-<img src="./images/nooscope.png" width="300"/>
+<img src="./images/nooscope.png" width="320"/>
 
 The goal is to use documents/corpus to create word embeddings based on that context using the Keras Embedding layer. Those embeddings will be secured along with the LSTM layers to predict the next possible word.
 
