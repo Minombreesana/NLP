@@ -10,14 +10,14 @@
 
 ### 2) Bot with NLTK
 
-![img1](images/memex.jpg)
+<img src="./images/memex.jpg">
 
 Bot made with the "Memex" definition on wikipedia. 
 The memex was a device imagine by Vannevar Bush that was supposed to keep many documents for consulting them. It is the same idea of this bot: To have a big amount of documents avaible for consulting them by looking for words. 
 
 ### 3) Custom embeddings with Gensim 
 
-<img src="./images/Ursula.jpg">
+<img src="./images/Ursula.jpg" width="200"/>
 
 Training embeddings for a corpus of Ursula K. Le Guin's poems. 
 
@@ -25,7 +25,7 @@ By training embeddings and depicting them in a 2d space it is possible to get in
 
 ### 4) Next word prediction
 
-![img3](images/nooscope.png){ width=50%}
+<img src="./images/nooscope.png">
 
 The goal is to use documents/corpus to create word embeddings based on that context using the Keras Embedding layer. Those embeddings will be secured along with the LSTM layers to predict the next possible word.
 
