@@ -20,7 +20,7 @@ The memex was a device imagine by Vannevar Bush that was supposed to keep many d
 
 ### 3) Custom embeddings with Gensim 
 
-<img src="./images/ursula.jpg">
+<img src="./images/Ursula.jpg">
 
 Training embeddings for a corpus of Ursula K. Le Guin's poems. 
 
