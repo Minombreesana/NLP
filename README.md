@@ -1,6 +1,3 @@
-# NLP
-Trabajos prácticos de Procesamiento de Lenguaje Natural - CEIA- FIUBA
-
 
 # NLP projects
 ## AI Specialization Course - FIUBA (Universidad de Buenos Aires)
@@ -13,7 +10,7 @@ Trabajos prácticos de Procesamiento de Lenguaje Natural - CEIA- FIUBA
 
 ### 2) Bot with NLTK
 
-![img1](images/memex.jpg)\
+![img1](images/memex.jpg)
 
 Bot made with the "Memex" definition on wikipedia. 
 The memex was a device imagine by Vannevar Bush that was supposed to keep many documents for consulting them. It is the same idea of this bot: To have a big amount of documents avaible for consulting them by looking for words. 
